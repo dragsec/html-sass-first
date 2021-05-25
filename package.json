@@ -1,0 +1,23 @@
+{
+  "name": "html-sass-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.mix.js",
+  "dependencies": {
+    "laravel-mix": "^6.0.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragsec/html-sass-first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragsec/html-sass-first/issues"
+  },
+  "homepage": "https://github.com/dragsec/html-sass-first#readme"
+}
