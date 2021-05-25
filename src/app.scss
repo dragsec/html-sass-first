@@ -1,0 +1,13 @@
+$brand: purple;
+$brandbg: pink;
+
+div{
+    background-color: $brandbg;
+    text-align: center;
+    padding: 50px;
+}
+
+p, h1, button{
+    color: $brand;
+    border: $brand 1px solid;
+}
